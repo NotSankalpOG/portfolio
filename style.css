@@ -1,4 +1,4 @@
-<style>
+
 :root {
   --primary: 250 100% 65%;
   --primary-glow: 250 100% 75%;
@@ -313,4 +313,4 @@ body { font-family: 'Outfit', sans-serif; background-color: hsl(var(--background
   .hero-cta { flex-direction: column; align-items: center; }
   .btn { width: 100%; justify-content: center; }
 }
-    </style>
+    
