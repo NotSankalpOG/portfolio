@@ -224,11 +224,6 @@ This system ensures new projects show up **instantly** on your portfolio.
 
 ---
 
-# 📬 Contact
-
-Feel free to reach out for inquiries, collaborations, or opportunities.
-
----
 
 # 📄 License
 
